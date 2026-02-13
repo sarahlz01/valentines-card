@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base {
+  html,
+  body {
+    @apply min-h-screen bg-red-100 text-[#DB7B7B] font-serif;
+  }
+}
+
